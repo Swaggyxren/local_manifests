@@ -4,7 +4,7 @@
   <remote name="gitlab" fetch="https://gitlab.com" />
 
   <!-- Device Tree -->
-  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="lineage-24.0" />
+  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="infinity-17" />
 
   <!-- Vendor Tree -->
   <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="github" revision="lineage-24.0" />
@@ -13,7 +13,7 @@
   <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="github" revision="test" />
 
   <!-- Sepolicy -->
-  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="seventeen" />
+  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="infinity-17" />
 
   <!-- Hardware MediaTek -->
   <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="16.0" />
