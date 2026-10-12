@@ -25,16 +25,16 @@ git clone https://github.com/Swaggyxren/local_manifests.git -b <branch> .repo/lo
 ### Android 17 (CP2A)
 | ROM / Target | Branch | Device Tree Branch | Vendor Tree Branch | Kernel Branch |
 | :--- | :--- | :--- | :--- | :--- |
-| **LineageOS 24.0** | `lineage-24.0` | `lineage-24.0` | `lineage-24.0` | `test` |
-| **LineageOS 24.0 (Test)** | `lineage-24.0-test` | `lineage-24.0-test` | `lineage-24.0-test` | `test` |
-| **RisingOS 17** | `rising-17` | `rising-17` | `lineage-24.0` | `test` |
-| **YAAP 17** | `yaap-17` | `yaap-17` | `lineage-24.0` | `test` |
-| **Project Infinity-X 17** | `infinity-17` | `infinity-17` | `lineage-24.0` | `test` |
+| **LineageOS 24.0** | `lineage-24.0` | `lineage-24.0` | `lineage-24.0` | `main` |
+| **LineageOS 24.0 (Test)** | `lineage-24.0-test` | `lineage-24.0-test` | `lineage-24.0-test` | `main` |
+| **RisingOS 17** | `rising-17` | `rising-17` | `lineage-24.0` | `main` |
+| **YAAP 17** | `yaap-17` | `yaap-17` | `lineage-24.0` | `main` |
+| **Project Infinity-X 17** | `infinity-17` | `infinity-17` | `lineage-24.0` | `main` |
 
 ### Android 16 (BP4A)
 | ROM / Target | Branch | Device Tree Branch | Vendor Tree Branch | Kernel Branch |
 | :--- | :--- | :--- | :--- | :--- |
-| **LineageOS 23.2** | `lineage-23.2` | `lineage-23.2` | `lineage-23.2` | `test` |
-| **LineageOS 23.2 (Test)** | `lineage-23.2-test` | `lineage-23.2-test` | `lineage-23.2-test` | `test` |
-| **AxionOS 16.2** | `axion16.2` | `axion16.2` | `lineage-23.2` | `test` |
-| **Lunaris AOSP 16.2** | `lunaris-16` | `lunaris-16` | `lineage-23.2` | `lunaris-16` |
+| **LineageOS 23.2** | `lineage-23.2` | `lineage-23.2` | `lineage-23.2` | `main` |
+| **LineageOS 23.2 (Test)** | `lineage-23.2-test` | `lineage-23.2-test` | `lineage-23.2-test` | `main` |
+| **AxionOS 16.2** | `axion16.2` | `axion16.2` | `lineage-23.2` | `main` |
+| **Lunaris AOSP 16.2** | `lunaris-16` | `lunaris-16` | `lineage-23.2` | `main` |
