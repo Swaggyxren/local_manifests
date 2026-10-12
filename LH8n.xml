@@ -4,7 +4,7 @@
   <remote name="gitlab" fetch="https://gitlab.com" />
 
   <!-- Device Tree -->
-  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="lineage-23.2" />
+  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="axion16.2" />
 
   <!-- Vendor Tree -->
   <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="github" revision="lineage-23.2" />
