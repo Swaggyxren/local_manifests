@@ -3,8 +3,12 @@
   <remote name="github" fetch="https://github.com" />
   <remote name="gitlab" fetch="https://gitlab.com" />
 
+  <!-- Soong Memory Limit & Aggressive GC Patch for A17 -->
+  <remove-project name="platform/build/soong" />
+  <project name="yaap-17-stone/build_soong" path="build/soong" remote="github" revision="seventeen" />
+
   <!-- Device Tree -->
-  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="lineage-24.0" />
+  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="yaap-17" />
 
   <!-- Vendor Tree -->
   <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="github" revision="lineage-24.0" />
@@ -13,7 +17,7 @@
   <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="github" revision="test" />
 
   <!-- Sepolicy -->
-  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="seventeen" />
+  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="yaap-17" />
 
   <!-- Hardware MediaTek -->
   <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="16.0" />
