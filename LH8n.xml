@@ -4,10 +4,10 @@
   <remote name="gitlab" fetch="https://gitlab.com" />
 
   <!-- Device Tree -->
-  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="lineage-24.0" />
+  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="github" revision="lineage-24.0-test" />
 
   <!-- Vendor Tree -->
-  <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="github" revision="lineage-24.0" />
+  <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="github" revision="lineage-24.0-test" />
 
   <!-- Kernel Tree -->
   <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="github" revision="test" />
