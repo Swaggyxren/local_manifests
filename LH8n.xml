@@ -19,7 +19,7 @@
   <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="16.0" />
 
   <!-- MediaTek IMS -->
-  <project name="MillenniumOSS/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="sixteen-oem" />
+  <project name="MillenniumOSS/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="seventeen" />
 
   <!-- Sony Dolby -->
   <project name="naden01/android_vendor_sony_dolby" path="vendor/sony/dolby" remote="github" revision="sixteen-redesign" />
