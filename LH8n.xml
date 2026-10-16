@@ -13,7 +13,7 @@
   <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="gh" revision="main" />
 
   <!-- Sepolicy -->
-  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="infinity-17" />
+  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="seventeen" />
 
   <!-- Hardware MediaTek -->
   <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="gh" revision="16.0" />
