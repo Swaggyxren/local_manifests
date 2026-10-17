@@ -22,7 +22,7 @@
   <project name="MillenniumOSS/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="gh" revision="sixteen-oem" />
 
   <!-- Sony Dolby -->
-  <project name="naden01/android_vendor_sony_dolby" path="vendor/sony/dolby" remote="gh" revision="sixteen" />
+  <project name="naden01/android_vendor_sony_dolby" path="vendor/sony/dolby" remote="gh" revision="sixteen-redesign" />
 
   <!-- Signing Keys -->
   <project name="naden01/keys-los23" path="vendor/lineage-priv/keys" remote="gl" revision="main" />
