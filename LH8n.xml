@@ -25,5 +25,5 @@
   <project name="naden01/android_vendor_sony_dolby" path="vendor/sony/dolby" remote="gh" revision="sixteen-redesign" />
 
   <!-- Signing Keys -->
-  <project name="Evolution-X/vendor_evolution-priv_keys-template" path="vendor/evolution-priv/keys" remote="gh" revision="main" />
+  <project name="Evolution-X/vendor_evolution-priv_keys-template" path="vendor/evolution-priv/keys" remote="gh" revision="master" />
 </manifest>
