@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gh" fetch="https://github.com" />
+  <remote name="gl" fetch="https://gitlab.com" />
+
+  <!-- Device Tree -->
+  <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="gh" revision="evolution-17" />
+
+  <!-- Vendor Tree -->
+  <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="gh" revision="lineage-24.0" />
+
+  <!-- Kernel Tree -->
+  <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="gh" revision="main" />
+
+  <!-- Sepolicy -->
+  <project name="Swaggyxren/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="seventeen" />
+
+  <!-- Hardware MediaTek -->
+  <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="gh" revision="16.0" />
+
+  <!-- MediaTek IMS -->
+  <project name="MillenniumOSS/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="gh" revision="seventeen" />
+
+  <!-- Sony Dolby -->
+  <project name="naden01/android_vendor_sony_dolby" path="vendor/sony/dolby" remote="gh" revision="sixteen-redesign" />
+
+  <!-- Signing Keys -->
+  <project name="Evolution-X/vendor_evolution-priv_keys-template" path="vendor/evolution-priv/keys" remote="gh" revision="main" />
+</manifest>
