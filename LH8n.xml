@@ -26,4 +26,16 @@
 
   <!-- Signing Keys -->
   <project name="naden01/keys-los23" path="vendor/lineage-priv/keys" remote="gl" revision="main" />
+
+  <!-- LMOFreeform -->
+  <remove-project name="LineageOS/android_build_soong" />
+  <project name="aobuta-prjkt/android_build_soong" path="build/soong" remote="gh" revision="seventeen" />
+
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <project name="aobuta-prjkt/android_frameworks_base" path="frameworks/base" remote="gh" revision="seventeen" />
+
+  <remove-project name="LineageOS/android_device_lineage_sepolicy" />
+  <project name="aobuta-prjkt/android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="gh" revision="lineage-24.0" />
+
+  <project name="aobuta-prjkt/android_packages_apps_LMOFreeform" path="packages/apps/LMOFreeform" remote="gh" revision="seventeen" />
 </manifest>
