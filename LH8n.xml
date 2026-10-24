@@ -34,5 +34,5 @@
   <remove-project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="aobuta-prjkt/android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="gh" revision="lineage-24.0" />
 
-  <project name="aobuta-prjkt/android_packages_apps_LMOFreeform" path="packages/apps/LMOFreeform" remote="gh" revision="seventeen" />
+  <project name="Swaggyxren/android_packages_apps_LMOFreeform" path="packages/apps/LMOFreeform" remote="gh" revision="lineage-24.0-test" />
 </manifest>
