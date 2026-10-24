@@ -28,9 +28,6 @@
   <project name="naden01/keys-los23" path="vendor/lineage-priv/keys" remote="gl" revision="main" />
 
   <!-- LMOFreeform -->
-  <remove-project name="LineageOS/android_build_soong" />
-  <project name="aobuta-prjkt/android_build_soong" path="build/soong" remote="gh" revision="seventeen" />
-
   <remove-project name="LineageOS/android_frameworks_base" />
   <project name="Swaggyxren/android_frameworks_base" path="frameworks/base" remote="gh" revision="lineage-24.0-test" />
 
