@@ -22,6 +22,9 @@
   <!-- Hardware MediaTek -->
   <project name="Swaggyxren/android_hardware_mediatek" path="hardware/mediatek" remote="gh" revision="16.0" />
 
+  <!-- Hardware Millennium -->
+  <project name="Swaggyxren/android_hardware_millennium" path="hardware/millennium" remote="gh" revision="seventeen" />
+
   <!-- MediaTek IMS -->
   <project name="MillenniumOSS/android_vendor_mediatek_ims" path="vendor/mediatek/ims" remote="gh" revision="seventeen" />
 
