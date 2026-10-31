@@ -16,7 +16,7 @@
   <project name="crdroidandroid/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="16.0" />
 
   <!-- Hardware MediaTek -->
-  <project name="crdroidandroid/android_hardware_mediatek" path="hardware/mediatek" remote="gh" revision="16.0" />
+  <project name="MillenniumOSS/android_hardware_mediatek" path="hardware/mediatek" remote="gh" revision="sixteen-wifi" />
 
   <!-- Hardware Millennium -->
   <project name="Swaggyxren/android_hardware_millennium" path="hardware/millennium" remote="gh" revision="seventeen" />
