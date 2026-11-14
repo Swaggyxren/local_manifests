@@ -7,7 +7,7 @@
   <project name="Swaggyxren/android_device_tecno_LH8n" path="device/tecno/LH8n" remote="gh" revision="lunaris-16" />
 
   <!-- Vendor Tree -->
-  <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="gh" revision="lunaris-16" />
+  <project name="Swaggyxren/vendor_tecno_LH8n" path="vendor/tecno/LH8n" remote="gh" revision="lineage-23.2" />
 
   <!-- Kernel Tree -->
   <project name="Swaggyxren/android_kernel_tecno_LH8n" path="device/tecno/LH8n-kernel" remote="gh" revision="main" />
